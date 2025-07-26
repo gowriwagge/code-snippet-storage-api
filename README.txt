@@ -31,7 +31,7 @@ A RESTful API to store, update, delete, and version code snippets per user.
 
 ## How to Run
 
-```bash
+
 pip install -r requirements.txt
 export FLASK_APP=app.py
 flask run
